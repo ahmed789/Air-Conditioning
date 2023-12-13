@@ -1,0 +1,67 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"12 MCAL_Layer/device_config.c
+[p x OSC  =  HS     ]
+"13
+[p x FCMEN  =  OFF  ]
+"15
+[p x IESO  =  OFF   ]
+"19
+[p x PWRT  =  OFF   ]
+"20
+[p x BOREN  =  OFF  ]
+"22
+[p x BORV  =  1     ]
+"25
+[p x WDT  =  OFF  ]
+"27
+[p x WDTPS  =  32768  ]
+"30
+[p x CCP2MX  =                                                            PORTC  ]
+"32
+[p x PBADEN  =  ON    ]
+"34
+[p x LPT1OSC  =  OFF  ]
+"36
+[p x MCLRE  =                                                             ON  ]
+"40
+[p x STVREN  =  ON  ]
+"42
+[p x LVP  =                                                               OFF  ]
+"44
+[p x XINST  =                                                             OFF  ]
+"49
+[p x CP0  =                                                               OFF  ]
+"51
+[p x CP1  =                                                               OFF  ]
+"53
+[p x CP2  =                                                               OFF  ]
+"55
+[p x CP3  =                                                               OFF  ]
+"59
+[p x CPB  =  OFF  ]
+"61
+[p x CPD  =                                                               OFF  ]
+"65
+[p x WRT0  =                                                              OFF  ]
+"67
+[p x WRT1  =                                                              OFF  ]
+"69
+[p x WRT2  =                                                              OFF  ]
+"71
+[p x WRT3  =                                                              OFF  ]
+"75
+[p x WRTC  =                                                              OFF  ]
+"78
+[p x WRTB  =  OFF  ]
+"80
+[p x WRTD  =                                                              OFF  ]
+"84
+[p x EBTR0  =                                                             OFF  ]
+"87
+[p x EBTR1  =                                                             OFF  ]
+"90
+[p x EBTR2  =                                                             OFF  ]
+"93
+[p x EBTR3  =                                                             OFF  ]
+"98
+[p x EBTRB  =                                                             OFF  ]
